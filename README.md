@@ -1,5 +1,5 @@
 # kalman_filter
-Kalman Filter that takes coordinates from DeepLabCut (DLC) to smooth them out.
+Kalman Filter that i used to take coordinates from DeepLabCut (DLC) to smooth them out.
 
 Creates a separate kalman filter for each body part to keep track of the animal.
 
